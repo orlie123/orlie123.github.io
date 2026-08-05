@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research intern at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) in Bochum, Germany, working on side-channel analysis and post-quantum cryptography. I recently completed my MSc in Cybersecurity and Mathematical Cryptology at the University of Bamenda, Cameroon. My research focused on fully soft-analytic plaintext-checking oracle attacks against ML-KEM using probabilistic side-channel information and belief propagation.
+I am a research intern at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/) in Bochum, Germany, working on side-channel analysis and post-quantum cryptography. I recently completed my MSc in Cybersecurity and Mathematical Cryptology at the University of Bamenda, Cameroon, under the supervision of [Julius Hermelink](https://juliusjh.github.io/), [Peter Schwabe](https://cryptojedi.org/peter/index.shtml), and [Emmanuel Fouotsa](https://www.linkedin.com/in/pr-emmanuel-fouotsa-7b9b8123/). My current research focuses on fully soft-analytic plaintext-checking oracle attacks against ML-KEM using probabilistic side-channel information and belief propagation.
 
 ## Research Interests
 
