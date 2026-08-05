@@ -17,8 +17,10 @@ I am a research intern at the [Max Planck Institute for Security and Privacy (MP
 - Lattice-based cryptography
 - Code-based cryptography
 - Zero-knowledge proofs
+## Documents
 
-## News
+- [CV (PDF)](/Orlie_Fepou_resume.pdf)
+- [MSc Defence Slides (PDF)](/Fully_Soft_Analytic_PC_Oracle_Attacks-17)
 
 - **August 2026**: Selected participant at the School on Arithmetic, Geometry and Algorithms, Addis Ababa, Ethiopia (ICTP-backed, fully funded).
 - **June 2026**: Started research internship at MPI-SP, Bochum, Germany.
